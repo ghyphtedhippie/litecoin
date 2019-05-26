@@ -3,7 +3,7 @@ XVIIcoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/xviicoin-project/xviicoin.svg?branch=master)](https://travis-ci.org/xviicoin-project/xviicoin)
 
-https://xviicoin.org
+https://www.xviicoin.info
 
 What is XVIIcoin?
 ----------------
